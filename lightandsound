@@ -1,5 +1,5 @@
 blueprint:
-  name: "IKEA Bilresa Scrollwheel - Control V1.3"
+  name: "IKEA Bilresa Scrollwheel - Light and Sound V0.1"
   description: >
     Controller for the IKEA Bilresa Smart Scroll Wheel via Matter.
     Now with optional Media Player controls!
